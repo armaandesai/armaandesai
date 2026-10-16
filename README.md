@@ -1,4 +1,5 @@
-## Hi there 👋
+## Software Engineer @ Qorvo
+### Email: armaandesayuno@gmail.com
 
 <!--
 **armaandesai/armaandesai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
